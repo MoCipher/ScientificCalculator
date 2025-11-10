@@ -1,0 +1,12 @@
+# Build artifacts
+obj/
+calculator
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+
